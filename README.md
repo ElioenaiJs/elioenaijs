@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  ¡Hola, soy Salvador Elioenai!
+  ¡Hola, soy Elio!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -35,39 +35,11 @@ Me especializo en crear interfaces modernas, dinámicas y conectadas a **APIs RE
 
 ---
 
-## 💼 Experiencia Profesional
-
-- **2024 - Meltsan Solutions S.A. de C.V.**  
-  Modernización del sistema CAMER Medical CLOUD con Docker, Grails, MySQL y Vue.js.
-
-- **2023 - Actualidad | Universidad de la Sierra Sur**  
-  Desarrollo de sistemas como gestión de clubs y expediente clínico con Angular + API REST.
-
-- **2023 - Sys Technology and Innovation**  
-  Desarrollo frontend con Angular, integración de APIs y mejora de comunicación cliente-servidor.
-
----
-
 ## 🎓 Formación
 
 **Licenciatura en Informática**  
 *Universidad de la Sierra Sur (2020 - Actualidad)*  
 Enfocado en el desarrollo profesional, pensamiento crítico y creatividad en tecnología.
-
----
-
-## 🚀 Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/Skar13F/firebase-android">
-    <img width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=firebase-android&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/Skar13F/Api-gateway">
-    <img width="260px" src="https://github-readme-stats.vercel.app/api/pin/?username=Skar13F&repo=Api-gateway&theme=react&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -106,13 +78,6 @@ Enfocado en el desarrollo profesional, pensamiento crítico y creatividad en tec
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=white)
 
----
-
-## 📊 Lenguajes más usados
-
-<img alt="Elio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skar13F&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
----
 
 ## 📌 Referencias
 
