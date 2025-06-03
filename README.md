@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Skar13F">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador%20Web%20Frontend%20y%20Backend;Angular%20%7C%20Vue.js%20%7C%20Laravel%20%7C%20Spring%20%7C%20Grails;Apasionado%20por%20crear%20experiencias%20digitales%20únicas;En%20constante%20aprendizaje%20📚;¡Colaboremos%20en%20proyectos%20geniales!%20🤝&center=true&width=480&height=45&font=Fira%20Code" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador%20Web" />
   </a>
 </p>
 
@@ -23,13 +23,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
 
-Soy desarrollador web con enfoque en frontend y conocimientos sólidos en backend.  
-Trabajo principalmente con **Angular**, **Laravel**, **Vue.js**, **Spring** y **Grails**.  
-Me especializo en crear interfaces modernas, dinámicas y conectadas a **APIs REST** escalables.  
-
-🎯 Mi objetivo: combinar diseño intuitivo con lógica robusta para soluciones digitales de alto rendimiento.
-
-📍 Radico en Oaxaca, México.
+Desarrollador de Software de Oaxaca, México 🇲🇽. Especializado en el desarrollo de aplicaciones web.  
 
 📫 Contacto: [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com) | 📱 +52 951 400 8591
 
@@ -39,14 +33,13 @@ Me especializo en crear interfaces modernas, dinámicas y conectadas a **APIs RE
 
 **Licenciatura en Informática**  
 *Universidad de la Sierra Sur (2020 - Actualidad)*  
-Enfocado en el desarrollo profesional, pensamiento crítico y creatividad en tecnología.
+
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### 🖥️ Lenguajes
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -56,6 +49,8 @@ Enfocado en el desarrollo profesional, pensamiento crítico y creatividad en tec
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
+
 
 ### 🧠 Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
@@ -68,6 +63,8 @@ Enfocado en el desarrollo profesional, pensamiento crítico y creatividad en tec
 ### ☁️ DevOps y Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
 
 ### 🛠️ Herramientas
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
@@ -78,12 +75,5 @@ Enfocado en el desarrollo profesional, pensamiento crítico y creatividad en tec
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=white)
 
-
-## 📌 Referencias
-
-> **I.C. Luis Alberto Suárez Zaragoza** — Líder de proyectos, Keysoft  
-> “Ha demostrado ser un excelente elemento y un gran trabajador, comprometido, responsable y fiel cumplidor de sus tareas. Siempre ha manifestado preocupación por mejorar, capacitarse y actualizar sus conocimientos.”
-
----
 
 > *Gracias por visitar mi perfil, ¡espero que podamos trabajar juntos pronto!*
