@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Skar13F">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=380&height=50&lines=Desarrollador+Web;Apasionado+por+la+tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=380&height=50&lines=Desarrollador+Web" alt="Typing SVG" />
   </a>
 </p>
 
