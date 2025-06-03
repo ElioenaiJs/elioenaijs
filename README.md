@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" width="250px" alt="Working hard" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlrazYyeTJub3ZiMXB0cmxpczF0NHUwb2k2N3RjZTJjMTdwYW04OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
+<img align="right" width="250px" alt="Working hard" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47qm7t9baipizqy0sk9lvtz0h9agt9jpf7lj2z9lvv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
 ---
