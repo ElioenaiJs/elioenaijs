@@ -1,39 +1,62 @@
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
-  Hi, I'm Oscar Ftes.
+  ¡Hola, soy Salvador Elioenai!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend%20Developer;Java%20%7C%20Spring%20Boot%20%7C%20SQL%20%7C%20Firebase;Always%20learning%20and%20building%20projects;Feel%20free%20to%20explore%20my%20work%20👀;Let’s%20connect%20and%20collaborate%20🤝&center=true&width=440&height=45&font=Fira%20Code">
+  <a href="https://github.com/Skar13F">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador%20Web%20Frontend%20y%20Backend;Angular%20%7C%20Vue.js%20%7C%20Laravel%20%7C%20Spring%20%7C%20Grails;Apasionado%20por%20crear%20experiencias%20digitales%20únicas;En%20constante%20aprendizaje%20📚;¡Colaboremos%20en%20proyectos%20geniales!%20🤝&center=true&width=480&height=45&font=Fira%20Code" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Skar13F" align="center">
-    <img align="center" alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Skar13F.Skar13F">
+    <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Skar13F.Skar13F" />
   </a>
 </p>
 
 <img align="right" width="250px" alt="Working hard" src="https://c.tenor.com/prtZlWqXstkAAAAd/tenor.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
 
-I'm a Computer Science student focused on backend development.  
-I work mainly with **Java, Spring Boot, SQL, RESTful APIs**.  
-Currently learning **microservices**, **Docker**, **Firebase**, and **AWS**.
+Soy desarrollador web con enfoque en frontend y conocimientos sólidos en backend.  
+Trabajo principalmente con **Angular**, **Laravel**, **Vue.js**, **Spring** y **Grails**.  
+Me especializo en crear interfaces modernas, dinámicas y conectadas a **APIs REST** escalables.  
 
-I enjoy 🎮 video games, 🎧 music, and discovering 📍hidden places around Oaxaca.
+🎯 Mi objetivo: combinar diseño intuitivo con lógica robusta para soluciones digitales de alto rendimiento.
 
-📫 Contact: [oscar@gmail.com](mailto:of5162@gmail.com)
+📍 Radico en Oaxaca, México.
+
+📫 Contacto: [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com) | 📱 +52 951 400 8591
 
 ---
 
-## 📌 Projects
+## 💼 Experiencia Profesional
+
+- **2024 - Meltsan Solutions S.A. de C.V.**  
+  Modernización del sistema CAMER Medical CLOUD con Docker, Grails, MySQL y Vue.js.
+
+- **2023 - Actualidad | Universidad de la Sierra Sur**  
+  Desarrollo de sistemas como gestión de clubs y expediente clínico con Angular + API REST.
+
+- **2023 - Sys Technology and Innovation**  
+  Desarrollo frontend con Angular, integración de APIs y mejora de comunicación cliente-servidor.
+
+---
+
+## 🎓 Formación
+
+**Licenciatura en Informática**  
+*Universidad de la Sierra Sur (2020 - Actualidad)*  
+Enfocado en el desarrollo profesional, pensamiento crítico y creatividad en tecnología.
+
+---
+
+## 🚀 Proyectos Destacados
 
 <p align="center">
   <a href="https://github.com/Skar13F/firebase-android">
@@ -44,42 +67,58 @@ I enjoy 🎮 video games, 🎧 music, and discovering 📍hidden places around O
   </a>
 </p>
 
+---
 
-## 🛠️ My Skills
--------------------
+## 🛠️ Tecnologías y Herramientas
 
-### Programming languages:
-&emsp;
-![Java](https://img.shields.io/badge/-Java-F7DF1E?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+### 🖥️ Lenguajes
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-### Backend / API:
-&emsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
-![REST](https://img.shields.io/badge/-REST-000?&logo=Apigee)
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-### Databases:
-&emsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+### 🧠 Backend
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Grails](https://img.shields.io/badge/-Grails-4B8BBE?logo=groovy&logoColor=white)
 
-### DevOps & Cloud:
-&emsp;
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+### 🧩 Base de Datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### Tools & Platforms:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ-IDEA)
+### ☁️ DevOps y Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+### 🛠️ Herramientas
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Lenguajes más usados
 
-<img alt="Oscar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skar13F&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Elio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skar13F&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+---
+
+## 📌 Referencias
+
+> **I.C. Luis Alberto Suárez Zaragoza** — Líder de proyectos, Keysoft  
+> “Ha demostrado ser un excelente elemento y un gran trabajador, comprometido, responsable y fiel cumplidor de sus tareas. Siempre ha manifestado preocupación por mejorar, capacitarse y actualizar sus conocimientos.”
+
+---
+
+> *Gracias por visitar mi perfil, ¡espero que podamos trabajar juntos pronto!*
