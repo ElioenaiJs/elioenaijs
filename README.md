@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Skar13F">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=380&height=50&lines=Desarrollador+Web;Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=380&height=50&lines=Desarrollador+Web;Apasionado+por+la+tecnologia" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
 
 Desarrollador de Software de Oaxaca, México 🇲🇽.  
-Especializado en el desarrollo de aplicaciones web modernasy escalables.
+Especializado en el desarrollo de aplicaciones web modernas y escalables.
 
 📫 Contacto: [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com)  
 📱 +52 951 400 8591
