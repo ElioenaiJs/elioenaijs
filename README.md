@@ -25,7 +25,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
 
 Desarrollador de Software de Oaxaca, México 🇲🇽.  
-Especializado en el desarrollo de aplicaciones web modernas, escalables y con buenas prácticas.
+Especializado en el desarrollo de aplicaciones web modernasy escalables.
 
 📫 Contacto: [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com)  
 📱 +52 951 400 8591
@@ -35,7 +35,7 @@ Especializado en el desarrollo de aplicaciones web modernas, escalables y con bu
 ## 🎓 Formación
 
 **Licenciatura en Informática**  
-*Universidad de la Sierra Sur (2020 - Actualidad)*  
+*Universidad de la Sierra Sur*  
 
 ---
 
