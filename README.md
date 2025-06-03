@@ -12,13 +12,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Skar13F">
-    <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=Skar13F.Skar13F" />
-  </a>
-</p>
+<img align="right" width="250px" alt="Working hard" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlrazYyeTJub3ZiMXB0cmxpczF0NHUwb2k2N3RjZTJjMTdwYW04OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" />
 
-<img align="right" width="250px" alt="Working hard" src="https://c.tenor.com/prtZlWqXstkAAAAd/tenor.gif" />
 
 ---
 
