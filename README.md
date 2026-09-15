@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/Skar13F">
-    <img alt="Full-Stack Developer · Angular y Design Systems · Spring Boot, Laravel y Docker"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B949E&center=true&vCenter=true&width=480&height=50&lines=Full-Stack+Developer;Angular+%2B+Design+Systems;Spring+Boot+%7C+Laravel+%7C+Docker" />
+    <img alt="Full-Stack Developer · Angular y Design Systems"
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B949E&center=true&vCenter=true&width=480&height=50&lines=Full-Stack+Developer;Angular+%2B+Design+Systems" />
   </a>
 </p>
 
