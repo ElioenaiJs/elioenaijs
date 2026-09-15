@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  ¡Hola, soy Elio! <img alt="" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  ¡Hola, soy Elio!
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## <img alt="" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
+## <img alt="" src="https://api.iconify.design/lucide/user.svg?color=%238b949e&width=24" width="24" />&nbsp;Sobre Mí
 
 Desarrollador de software de **Oaxaca, México** <img alt="México" src="https://api.iconify.design/circle-flags/mx.svg?width=18" width="18" />.
 
@@ -35,6 +35,7 @@ Desarrollador de software de **Oaxaca, México** <img alt="México" src="https:/
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Angular Material](https://img.shields.io/badge/Angular_Material-0D1117?style=for-the-badge&logo=materialdesign&logoColor=C9D1D9)
+![Nx](https://img.shields.io/badge/Nx-0D1117?style=for-the-badge&logo=nx&logoColor=5B8FD1)
 ![SCSS](https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -46,7 +47,6 @@ Desarrollador de software de **Oaxaca, México** <img alt="México" src="https:/
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![NGINX](https://img.shields.io/badge/NGINX-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
-![Nx](https://img.shields.io/badge/Nx-0D1117?style=for-the-badge&logo=nx&logoColor=5B8FD1)
 ![Gradle](https://img.shields.io/badge/Gradle-0D1117?style=for-the-badge&logo=gradle&logoColor=3FA9C9)
 ![ESLint](https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=8A76E8)
 
