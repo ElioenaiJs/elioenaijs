@@ -26,11 +26,11 @@
 
 ## <img alt="" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
 
-Desarrollador de software de **Oaxaca, México** 🇲🇽.
+Desarrollador de software de **Oaxaca, México** <img alt="México" src="https://api.iconify.design/circle-flags/mx.svg?width=18" width="18" />.
 
 ---
 
-## 🛠️ Stack
+## <img alt="" src="https://api.iconify.design/lucide/layers.svg?color=%238b949e&width=24" width="24" />&nbsp;Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
@@ -46,10 +46,11 @@ Desarrollador de software de **Oaxaca, México** 🇲🇽.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![NGINX](https://img.shields.io/badge/NGINX-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![Nx](https://img.shields.io/badge/Nx-0D1117?style=for-the-badge&logo=nx&logoColor=5B8FD1)
 ![Gradle](https://img.shields.io/badge/Gradle-0D1117?style=for-the-badge&logo=gradle&logoColor=3FA9C9)
 ![ESLint](https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=8A76E8)
 
-### También he trabajado con
+### Otras tecnologías
 
 `React` · `Vue.js` · `PHP` · `Laravel` · `Grails` · `Bootstrap` · `Firebase` · `FastAPI`
 
@@ -63,13 +64,13 @@ Desarrollador de software de **Oaxaca, México** 🇲🇽.
 
 ---
 
-## 🎓 Formación
+## <img alt="" src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238b949e&width=24" width="24" />&nbsp;Formación
 
 **Licenciatura en Informática** — Universidad de la Sierra Sur
 
 ---
 
-## 📫 Contacto
+## <img alt="" src="https://api.iconify.design/lucide/mail.svg?color=%238b949e&width=24" width="24" />&nbsp;Contacto
 
-- 📧 [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+- <img alt="" src="https://api.iconify.design/lucide/mail.svg?color=%238b949e&width=16" width="16" />&nbsp; [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com)
+- <img alt="" src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e&width=16" width="16" />&nbsp; [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
