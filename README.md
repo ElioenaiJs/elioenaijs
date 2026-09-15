@@ -1,60 +1,77 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h1 align="center">
-  ¡Hola, soy Elio! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  ¡Hola, soy Elio! <img alt="" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/Skar13F">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=380&height=50&lines=Desarrollador+Web" alt="Typing SVG" />
+    <img alt="Full-Stack Developer · Angular y Spring Boot · Design systems y DevOps"
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&height=50&lines=Full-Stack+Developer;Angular+%2B+Design+Systems;Spring+Boot+%7C+Laravel+%7C+Docker" />
   </a>
 </p>
 
-<img align="right" width="250px" alt="Working hard" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47qm7t9baipizqy0sk9lvtz0h9agt9jpf7lj2z9lvv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-
+<p align="center">
+  <a href="mailto:elioenai.2001@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
+## <img alt="" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Sobre Mí
 
-Desarrollador de Software de Oaxaca, México 🇲🇽.  
-Especializado en el desarrollo de aplicaciones web modernas y escalables.
+Desarrollador de software de **Oaxaca, México** 🇲🇽.
 
-📫 Contacto: [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com)  
-📱 +52 951 400 8591
+---
+
+## 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/-Angular%20Material-757575?logo=angular&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+### Infraestructura
+
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?logo=keycloak&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+
+### También he trabajado con
+
+`React` · `Vue.js` · `PHP` · `Laravel` · `Grails` · `Bootstrap` · `Firebase` · `FastAPI`
+
+### Entorno
+
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/-tmux-1BB91F?logo=tmux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+---
 
 ---
 
 ## 🎓 Formación
 
-**Licenciatura en Informática**  
-*Universidad de la Sierra Sur*  
+**Licenciatura en Informática** — Universidad de la Sierra Sur
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-### 🖥️ Lenguajes  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+## 📫 Contacto
 
-### 🎨 Frontend  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-
-### 🧠 Backend  
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Grails](https://img.shields.io/badge/-Grails-4B8BBE?logo=groovy&logoColor=white)  
-
-### 🧩 Base de Datos  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-
-### ☁️ DevOps y Cloud  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-
-### 🛠️ Herramientas  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellij-idea&logoColor=white)  
-
----
-
-<p align="center">
-  <em>✨ ¡Gracias por visitar mi perfil! Espero que podamos trabajar juntos pronto. ✨</em>
-</p>
+- 📧 [elioenai.2001@outlook.com](mailto:elioenai.2001@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
